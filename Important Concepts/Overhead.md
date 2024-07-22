@@ -1,0 +1,2 @@
+**Overhead** refers to the additional time and resources required by the operating system to manage multiple programs and perform tasks such as context switching, scheduling, and memory management.
+This overhead can reduce the overall efficiency of the system because some of the CPU’s time and system resources are spent on these management tasks rather than directly executing user programs.

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68bfe0c8eddd5b27",
+        "id": "4b659a72f830c94c",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf85374c4d801f8",
+            "id": "645fff81f17eb1e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebf85374c4d801f8",
+  "active": "645fff81f17eb1e7",
   "lastOpenFiles": [
-    "Images/Batch-Operating-System.webp",
-    "images 1.md",
+    "Images/Distributed-OS.webp",
+    "Images/Distributed-OS.webp.crdownload",
+    "Important Concepts/Overhead.md",
     "02. Types of Operating System.md",
+    "Images/Time-Sharing-OS.jpg",
+    "Images/Time-Sharing-OS.jpg.crdownload",
+    "Images/Batch-OS.webp",
+    "Images/Multi-Tasking-OS.webp",
+    "Images/Multi-Tasking-OS.webp.crdownload",
+    "Images/Multi-Processing.md",
+    "Images/Multi-Programing-OS.jpg",
+    "Images/Multi-Processing-OS.png",
+    "Images/Multi-Processing-OS.png.crdownload",
+    "Important Concepts/Throughput.md",
+    "Important Concepts",
+    "images/Multi-Processing.md",
+    "Images/Multi-Processing OS.jpg.crdownload",
+    "images 1.md",
     "01. Introduction.md",
     "Images/Batch-Operating-System.md",
     "images/Batch-Operating-System.md",

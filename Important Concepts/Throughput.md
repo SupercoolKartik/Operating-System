@@ -1,0 +1,1 @@
+In computing, throughput can also refer to the number of operations a system can perform in a given period. This is relevant for CPUs, databases, and other processing systems, and is usually measured in operations per second or transactions per second (TPS).
