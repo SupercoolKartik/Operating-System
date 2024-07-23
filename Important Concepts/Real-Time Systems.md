@@ -1,0 +1,1 @@
+**Real-time systems** are computer systems designed to respond to inputs and provide outputs within a specific time frame. These systems are used in environments where timing is crucial, and the correctness of operations depends not only on logical results but also on the time at which they are produced.
