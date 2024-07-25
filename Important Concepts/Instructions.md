@@ -1,0 +1,1 @@
+Computer instructions are a group of machine language instructions and they are executed by a specific computer processor. Whatever instruction we give to the computer, it will work on its basis.
