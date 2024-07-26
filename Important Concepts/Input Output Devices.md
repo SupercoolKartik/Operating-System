@@ -1,0 +1,3 @@
+An input/output device, often known as an IO device, is any hardware that allows a human operator or other systems to interface with a computer. Input/output devices, as the name implies, are capable of delivering data (output) to and receiving data from a computer (input). An input/output (I/O) device is a piece of hardware that can take, output, or process data. It receives data as input and provides it to a computer, as well as sends computer data to storage media as a storage output.
+
+[for more](https://www.geeksforgeeks.org/input-and-output-devices/)
