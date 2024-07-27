@@ -1,0 +1,1 @@
+Modularity in computing and programming refers to **dividing a system into separate modules or components**. Each module handles a specific functionality and operates independently.
