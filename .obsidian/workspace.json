@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Process.md",
+                "file": "02. Types of Operating System.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Concepts/Dispatcher.md",
+                "file": "04. Threads.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Process.md",
+                "file": "04. Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Process.md",
+                "file": "04. Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Process.md"
+                "file": "04. Threads.md"
               }
             }
           }
@@ -158,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cef576b4beae9ff",
+  "active": "c4afd0c65af31bb9",
   "lastOpenFiles": [
-    "Important Concepts/Dispatcher.md",
+    "05. Multithreading vs Multitasking.md",
     "03. Process.md",
+    "Important Concepts/Dispatcher.md",
+    "02. Types of Operating System.md",
+    "01. Introduction.md",
+    "04. Threads.md",
+    "08. 32-bit OS vs 64-bit OS.md",
+    "07. System Calls.md",
+    "06. Components of Operating System.md",
     "Important Concepts/Return Address.md",
     "return addresses.md",
     "Images/OS-Stanford.pdf",
@@ -170,18 +178,12 @@
     "Images/Process-Lifecycle.webp",
     "Images/Process-Lifecyle.webp.crdownload",
     "Important Concepts/Program Counter.md",
-    "07. System Calls.md",
-    "08. 32-bit OS vs 64-bit OS.md",
-    "06. Components of Operating System.md",
-    "05. Multithreading vs Multitasking.md",
     "Important Concepts/Modularity.md",
-    "04. Threads.md",
     "Important Concepts/Input Output Devices.md",
     "IO devices.md",
     "I/O devices.md",
     "I",
     "Important Concepts/Memory.md",
-    "02. Types of Operating System.md",
     "Images/Process.png",
     "Images/Process.png.crdownload",
     "Important Concepts/Instructions.md",
@@ -203,7 +205,6 @@
     "Important Concepts/Throughput.md",
     "images/Multi-Processing.md",
     "images 1.md",
-    "01. Introduction.md",
     "Images/Batch-Operating-System.md",
     "images/Batch-Operating-System.md"
   ]
