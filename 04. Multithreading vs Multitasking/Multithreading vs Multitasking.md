@@ -7,3 +7,4 @@
 | **Resource Use** | Utilizes CPU resources more efficiently within a program.                              | Manages system resources to allocate time and memory to different programs.               |
 | **Purpose**      | Enhances the performance and responsiveness of a single application.                   | Improves overall system efficiency by allowing concurrent execution of multiple programs. |
 | **Switching**    | Threads are managed by the program itself.                                             | Programs are managed by the operating system, which switches between them.                |
+|                  |                                                                                        |                                                                                           |
