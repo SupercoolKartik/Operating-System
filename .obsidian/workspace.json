@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Critical Section.md",
+                "file": "03. Threads/05. Critical Section.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05. Critical Section.md",
+                "file": "03. Threads/05. Critical Section.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05. Critical Section.md",
+                "file": "03. Threads/05. Critical Section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05. Critical Section.md",
+                "file": "03. Threads/05. Critical Section.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05. Critical Section.md"
+                "file": "03. Threads/05. Critical Section.md"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b229f664053c6520",
+  "active": "b067505939719c80",
   "lastOpenFiles": [
     "Necessary Concepts/Progress.md",
-    "05. Critical Section.md",
+    "03. Threads/05. Critical Section.md",
     "03. Threads/04. Difference Between Process and Thread.md",
     "03. Threads/FAQs.md",
     "03. Threads/01. Introduction.md",
