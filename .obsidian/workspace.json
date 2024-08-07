@@ -23,11 +23,9 @@
             "id": "da44522ee90a8512",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03. Threads/05. Critical Section.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/critical-section.png"
               }
             }
           },
@@ -94,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "2746ab2a9c517411",
@@ -171,11 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b067505939719c80",
+  "active": "b229f664053c6520",
   "lastOpenFiles": [
-    "Necessary Concepts/Progress.md",
-    "03. Threads/05. Critical Section.md",
+    "02. Process/02. Process Management.md",
+    "Images/critical-section.png",
     "03. Threads/04. Difference Between Process and Thread.md",
+    "03. Threads/05. Critical Section.md",
+    "Images/critical-section-problem.png.~tmp",
+    "Images/critical-section-problem.png.crdownload",
+    "Necessary Concepts/Progress.md",
     "03. Threads/FAQs.md",
     "03. Threads/01. Introduction.md",
     "Important Topics/32-bit OS vs 64-bit OS.md",
@@ -198,7 +201,6 @@
     "02. Process/04. Other Processes.md",
     "03. Threads",
     "02. Process/03. States of Process.md",
-    "02. Process/02. Process Management.md",
     "02. Process",
     "01. Introduction2.md",
     "01. Basics of OS",
@@ -206,18 +208,14 @@
     "Necessary Concepts/Return Address.md",
     "return addresses.md",
     "Images/OS-Stanford.pdf",
-    "Images/OS-Stanford.pdf.crdownload",
     "Images/PCB.png",
     "Images/Process-Lifecycle.webp",
-    "Images/Process-Lifecyle.webp.crdownload",
-    "Necessary Concepts/Program Counter.md",
     "Images/Process.png",
     "Images/RTOS.webp",
     "Images/Distributed-OS.webp",
     "Images/Time-Sharing-OS.jpg",
     "Images/Batch-OS.webp",
     "Images/Multi-Tasking-OS.webp",
-    "Images/Multi-Programing-OS.jpg",
-    "Images/Multi-Processing-OS.png"
+    "Images/Multi-Programing-OS.jpg"
   ]
 }
