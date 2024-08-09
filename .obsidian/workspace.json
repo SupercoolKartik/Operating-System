@@ -8,41 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f9ae8c511fe9d2a",
+            "id": "57fc2c24cbc2fcad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Threads/04. Difference Between Process and Thread.md",
+                "file": "07. Critical Section/04. Peterson's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da44522ee90a8512",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/critical-section.png"
-              }
-            }
-          },
-          {
-            "id": "b229f664053c6520",
+            "id": "9d1adce903d02ff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03. Threads/05. Critical Section.md",
+                "file": "07. Critical Section/02. Lock Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "578c301a3acf355c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Critical Section/01. Basic Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5110321044922,
-    "collapsed": true
+    "width": 272.5110321044922
   },
   "right": {
     "id": "2746ab2a9c517411",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03. Threads/05. Critical Section.md",
+                "file": "07. Critical Section/04. Peterson's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03. Threads/05. Critical Section.md",
+                "file": "07. Critical Section/04. Peterson's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03. Threads/05. Critical Section.md"
+                "file": "07. Critical Section/04. Peterson's Algorithm.md"
               }
             }
           }
@@ -170,12 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b229f664053c6520",
+  "active": "57fc2c24cbc2fcad",
   "lastOpenFiles": [
+    "03. Threads/05. Critical Section.md",
+    "07. Critical Section/04. Peterson's Algorithm.md",
+    "07. Critical Section/01. Basic Introduction.md",
+    "07. Critical Section/02. Lock Variable.md",
+    "Untitled.md",
+    "07. Critical Section",
     "02. Process/02. Process Management.md",
     "Images/critical-section.png",
     "03. Threads/04. Difference Between Process and Thread.md",
-    "03. Threads/05. Critical Section.md",
     "Images/critical-section-problem.png.~tmp",
     "Images/critical-section-problem.png.crdownload",
     "Necessary Concepts/Progress.md",
@@ -204,10 +209,6 @@
     "02. Process",
     "01. Introduction2.md",
     "01. Basics of OS",
-    "Necessary Concepts/Dispatcher.md",
-    "Necessary Concepts/Return Address.md",
-    "return addresses.md",
-    "Images/OS-Stanford.pdf",
     "Images/PCB.png",
     "Images/Process-Lifecycle.webp",
     "Images/Process.png",
