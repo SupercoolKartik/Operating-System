@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57fc2c24cbc2fcad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Critical Section/04. Peterson's Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73a2a389d3ca363a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Critical Section/03. Test and Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78ef6c581a6845bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Critical Section/05. Semaphores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d1adce903d02ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Critical Section/02. Lock Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "578c301a3acf355c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07. Critical Section/01. Basic Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d7e2e1ff6808cef",
             "type": "leaf",
             "state": {
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b067505939719c80",
+  "active": "5d7e2e1ff6808cef",
   "lastOpenFiles": [
-    "07. Critical Section/04. Peterson's Algorithm.md",
-    "07. Critical Section/06. Producer Consumer Problem.md",
-    "07. Critical Section/03. Test and Set.md",
     "07. Critical Section/05. Semaphores.md",
+    "07. Critical Section/06. Producer Consumer Problem.md",
+    "07. Critical Section/04. Peterson's Algorithm.md",
+    "07. Critical Section/03. Test and Set.md",
     "07. Critical Section/02. Lock Variable.md",
     "03. Threads/05. Critical Section.md",
     "07. Critical Section/01. Basic Introduction.md",
