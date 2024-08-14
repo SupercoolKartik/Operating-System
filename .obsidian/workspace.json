@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a87e2b86e028b8ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Critical Section/07. Readers-Writers Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. Critical Section/06. Producer Consumer Problem.md",
+                "file": "07. Critical Section/07. Readers-Writers Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. Critical Section/06. Producer Consumer Problem.md",
+                "file": "07. Critical Section/07. Readers-Writers Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. Critical Section/06. Producer Consumer Problem.md"
+                "file": "07. Critical Section/07. Readers-Writers Problem.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d7e2e1ff6808cef",
+  "active": "a87e2b86e028b8ad",
   "lastOpenFiles": [
-    "07. Critical Section/05. Semaphores.md",
     "07. Critical Section/06. Producer Consumer Problem.md",
+    "07. Critical Section/07. Readers-Writers Problem.md",
+    "07. Critical Section/05. Semaphores.md",
     "07. Critical Section/04. Peterson's Algorithm.md",
     "07. Critical Section/03. Test and Set.md",
     "07. Critical Section/02. Lock Variable.md",
@@ -181,7 +195,6 @@
     "01. Basics of OS/01. Introduction.md",
     "01. Basics of OS/03. Types of Operating System.md",
     "01. Basics of OS/02. Functions of Operating System.md",
-    "02. Process/04. Other Processes.md",
     "03. Threads",
     "02. Process",
     "01. Basics of OS",
