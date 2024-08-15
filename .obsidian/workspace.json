@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66b5b7a65bd9cf37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. Critical Section/07. Readers-Writers Problem.md",
+                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. Critical Section/07. Readers-Writers Problem.md",
+                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. Critical Section/07. Readers-Writers Problem.md"
+                "file": "07. Critical Section/08. Dining Philosopher Problem.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87e2b86e028b8ad",
+  "active": "b067505939719c80",
   "lastOpenFiles": [
-    "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/07. Readers-Writers Problem.md",
+    "07. Critical Section/08. Dining Philosopher Problem.md",
+    "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/05. Semaphores.md",
     "07. Critical Section/04. Peterson's Algorithm.md",
     "07. Critical Section/03. Test and Set.md",
@@ -194,7 +207,6 @@
     "03. Threads/02. Multithreading.md",
     "01. Basics of OS/01. Introduction.md",
     "01. Basics of OS/03. Types of Operating System.md",
-    "01. Basics of OS/02. Functions of Operating System.md",
     "03. Threads",
     "02. Process",
     "01. Basics of OS",
