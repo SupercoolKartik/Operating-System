@@ -171,8 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b067505939719c80",
+  "active": "66b5b7a65bd9cf37",
   "lastOpenFiles": [
+    "Images/Dining-Philosophers-Problem.png",
+    "Images/Dining-Philosophers-Problem.png.crdownload",
+    "Images/Dining-Philosophers-Problem.gif",
+    "Images/Dining-Philosophers-Problem.gif.crdownload",
     "07. Critical Section/07. Readers-Writers Problem.md",
     "07. Critical Section/08. Dining Philosopher Problem.md",
     "07. Critical Section/06. Producer Consumer Problem.md",
@@ -206,10 +210,7 @@
     "03. Threads/03. Benefits if Threads.md",
     "03. Threads/02. Multithreading.md",
     "01. Basics of OS/01. Introduction.md",
-    "01. Basics of OS/03. Types of Operating System.md",
     "03. Threads",
-    "02. Process",
-    "01. Basics of OS",
     "Images/PCB.png",
     "Images/Process-Lifecycle.webp",
     "Images/Process.png",
@@ -217,7 +218,6 @@
     "Images/Distributed-OS.webp",
     "Images/Time-Sharing-OS.jpg",
     "Images/Batch-OS.webp",
-    "Images/Multi-Tasking-OS.webp",
-    "Images/Multi-Programing-OS.jpg"
+    "Images/Multi-Tasking-OS.webp"
   ]
 }
