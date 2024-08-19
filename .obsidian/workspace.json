@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
+                "file": "09. Deadlocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
+                "file": "09. Deadlocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07. Critical Section/08. Dining Philosopher Problem.md",
+                "file": "09. Deadlocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07. Critical Section/08. Dining Philosopher Problem.md"
+                "file": "09. Deadlocks.md"
               }
             }
           }
@@ -173,12 +173,16 @@
   },
   "active": "66b5b7a65bd9cf37",
   "lastOpenFiles": [
+    "07. Critical Section/08. Dining Philosopher Problem.md",
+    "Images/deadlock.png",
+    "09. Deadlocks.md",
+    "Images/Resourse-use.png",
+    "Images/Resourse-use.png.crdownload",
     "Images/Dining-Philosophers-Problem.png",
     "Images/Dining-Philosophers-Problem.png.crdownload",
     "Images/Dining-Philosophers-Problem.gif",
     "Images/Dining-Philosophers-Problem.gif.crdownload",
     "07. Critical Section/07. Readers-Writers Problem.md",
-    "07. Critical Section/08. Dining Philosopher Problem.md",
     "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/05. Semaphores.md",
     "07. Critical Section/04. Peterson's Algorithm.md",
@@ -209,15 +213,10 @@
     "04. Multithreading vs Multitasking",
     "03. Threads/03. Benefits if Threads.md",
     "03. Threads/02. Multithreading.md",
-    "01. Basics of OS/01. Introduction.md",
-    "03. Threads",
     "Images/PCB.png",
     "Images/Process-Lifecycle.webp",
     "Images/Process.png",
     "Images/RTOS.webp",
-    "Images/Distributed-OS.webp",
-    "Images/Time-Sharing-OS.jpg",
-    "Images/Batch-OS.webp",
-    "Images/Multi-Tasking-OS.webp"
+    "Images/Distributed-OS.webp"
   ]
 }
