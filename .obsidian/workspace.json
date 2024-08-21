@@ -148,6 +148,9 @@
   },
   "active": "57f1a7a1d8940238",
   "lastOpenFiles": [
+    "Images/RAG-Vertices.png",
+    "Images/RAG.png",
+    "Images/RAG.png.crdownload",
     "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/07. Readers-Writers Problem.md",
     "Necessary Concepts/Explanation of How prevention of Circular Wait can prevent Deadlock.md",
@@ -186,13 +189,10 @@
     "02. Process/01. Introduction.md",
     "05. Components of Operating System",
     "04. Multithreading vs Multitasking/Multithreading vs Multitasking.md",
-    "04. Multithreading vs Multitasking",
     "03. Threads/03. Benefits if Threads.md",
-    "03. Threads/02. Multithreading.md",
     "Images/PCB.png",
     "Images/Process-Lifecycle.webp",
     "Images/Process.png",
-    "Images/RTOS.webp",
-    "Images/Distributed-OS.webp"
+    "Images/RTOS.webp"
   ]
 }
