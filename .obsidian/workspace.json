@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "2e8daa4b16512226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Necessary Concepts/Deadlock Avoidance Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "57f1a7a1d8940238",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +161,19 @@
   },
   "active": "57f1a7a1d8940238",
   "lastOpenFiles": [
+    "Necessary Concepts/Working of Deadlock Avoidance.md",
+    "Necessary Concepts/Deadlock Avoidance Example.md",
+    "07. Critical Section/09. Deadlocks.md",
+    "Images/safe-unsafe-state.jpg",
+    "Images/safe-unsafe-state.webp",
+    "Images/RAG-Vertices3.png",
+    "Images/RAG-Vertices2.png",
     "Images/RAG-Vertices.png",
     "Images/RAG.png",
     "Images/RAG.png.crdownload",
     "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/07. Readers-Writers Problem.md",
     "Necessary Concepts/Explanation of How prevention of Circular Wait can prevent Deadlock.md",
-    "07. Critical Section/09. Deadlocks.md",
     "07. Critical Section/08. Dining Philosopher Problem.md",
     "Images/deadlock.png",
     "Images/Resourse-use.png",
@@ -171,7 +190,6 @@
     "07. Critical Section/01. Basic Introduction.md",
     "07. Critical Section",
     "02. Process/02. Process Management.md",
-    "Images/critical-section.png",
     "03. Threads/04. Difference Between Process and Thread.md",
     "Images/critical-section-problem.png.~tmp",
     "Images/critical-section-problem.png.crdownload",
@@ -188,11 +206,6 @@
     "05. Components of Operating System/01. Components of OS.md",
     "02. Process/01. Introduction.md",
     "05. Components of Operating System",
-    "04. Multithreading vs Multitasking/Multithreading vs Multitasking.md",
-    "03. Threads/03. Benefits if Threads.md",
-    "Images/PCB.png",
-    "Images/Process-Lifecycle.webp",
-    "Images/Process.png",
-    "Images/RTOS.webp"
+    "04. Multithreading vs Multitasking/Multithreading vs Multitasking.md"
   ]
 }
