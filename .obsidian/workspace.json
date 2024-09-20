@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "81d5822e03a5f80a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Memory Management/1. Introduction to Memory Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c54bb95cf7d66e7f",
             "type": "leaf",
             "state": {
@@ -42,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25410c7d823056e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,41 +161,41 @@
   },
   "active": "c54bb95cf7d66e7f",
   "lastOpenFiles": [
+    "Images/segmentation3.webp",
+    "Images/segmentation3.webp.crdownload",
+    "Images/os-segmentation.png",
+    "Images/os-segmentation-segments.png",
+    "Images/os-segmentation-segments.png.crdownload",
+    "Necessary Concepts/Main Memory.md",
+    "09. Memory Management/1. Introduction to Memory Management.md",
+    "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
+    "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
+    "Images/Translation_Lookaside_Buffer.png",
     "Images/os-need-for-paging.png",
     "Images/os-need-for-paging.png.crdownload",
     "09. Memory Management/2. Memory Management Techniques.md",
-    "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
     "Images/memory-management-techniques.png",
     "Images/memory-management-techniques.png.crdownload",
-    "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
-    "09. Memory Management/1. Introduction to Memory Management.md",
     "Contiguous Memory Management Technique.md",
     "Images/os-linked-list-for-dynamic-partitioning.png",
     "Images/os-linked-list-for-dynamic-partitioning.png.crdownload",
     "Images/os-bit-map-for-dynamic-partitioning.png",
     "Images/os-bit-map-for-dynamic-partitioning.png.crdownload",
-    "Necessary Concepts/Main Memory.md",
     "Images/os-compaction.png",
     "Images/os-compaction.png.crdownload",
     "Images/os-dynamic-partitioning-external-fragmentation.png",
     "Images/os-dynamic-partitioning-external-fragmentation.png.crdownload",
     "Images/os-dynamic-partitioning.png",
     "Images/os-dynamic-partitioning.png.crdownload",
-    "Images/os-fixed-partitioning.png",
     "Images/os-fixed-partitioning.png.crdownload",
     "Important Topics/Storage of data in a computer system.md",
     "commit.md",
-    "Images/Memory-Management-inti.png",
     "08. Deadlocks/02. Deadlock Handling.md",
-    "09. Memory Management",
     "07. Critical Section/09. Deadlocks.md",
     "Necessary Concepts/Working of Deadlock Avoidance.md",
     "08. Deadlocks/01. Introduction.md",
-    "08. Deadlocks",
     "Necessary Concepts/Wait-for Graph (WFG).md",
     "Necessary Concepts/Deadlock Avoidance Example.md",
-    "Images/safe-unsafe-state.jpg",
-    "Images/safe-unsafe-state.webp",
     "07. Critical Section/06. Producer Consumer Problem.md",
     "07. Critical Section/07. Readers-Writers Problem.md",
     "Necessary Concepts/Explanation of How prevention of Circular Wait can prevent Deadlock.md",
