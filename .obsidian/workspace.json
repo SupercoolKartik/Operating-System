@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
+                "file": "02. Process/02. Process Management.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebfe34de44e3dbc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Memory Management/3. Virtual Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
+                "file": "09. Memory Management/3. Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
+                "file": "09. Memory Management/3. Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09. Memory Management/2.2. Non-contiguous memory management schemes.md"
+                "file": "09. Memory Management/3. Virtual Memory.md"
               }
             }
           }
@@ -159,8 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c54bb95cf7d66e7f",
+  "active": "b067505939719c80",
   "lastOpenFiles": [
+    "02. Process/02. Process Management.md",
+    "09. Memory Management/3. Virtual Memory.md",
+    "02. Process/01. Introduction.md",
+    "01. Basics of OS/03. Types of Operating System.md",
+    "01. Basics of OS/01. Introduction.md",
+    "01. Basics of OS/02. Functions of Operating System.md",
+    "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
     "Images/segmentation3.webp",
     "Images/segmentation3.webp.crdownload",
     "Images/os-segmentation.png",
@@ -168,7 +187,6 @@
     "Images/os-segmentation-segments.png.crdownload",
     "Necessary Concepts/Main Memory.md",
     "09. Memory Management/1. Introduction to Memory Management.md",
-    "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
     "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
     "Images/Translation_Lookaside_Buffer.png",
     "Images/os-need-for-paging.png",
@@ -185,7 +203,6 @@
     "Images/os-compaction.png.crdownload",
     "Images/os-dynamic-partitioning-external-fragmentation.png",
     "Images/os-dynamic-partitioning-external-fragmentation.png.crdownload",
-    "Images/os-dynamic-partitioning.png",
     "Images/os-dynamic-partitioning.png.crdownload",
     "Images/os-fixed-partitioning.png.crdownload",
     "Important Topics/Storage of data in a computer system.md",
@@ -201,11 +218,6 @@
     "Necessary Concepts/Explanation of How prevention of Circular Wait can prevent Deadlock.md",
     "07. Critical Section/08. Dining Philosopher Problem.md",
     "07. Critical Section/05. Semaphores.md",
-    "07. Critical Section/04. Peterson's Algorithm.md",
-    "07. Critical Section/03. Test and Set.md",
-    "07. Critical Section/02. Lock Variable.md",
-    "03. Threads/05. Critical Section.md",
-    "07. Critical Section/01. Basic Introduction.md",
-    "02. Process/02. Process Management.md"
+    "07. Critical Section/04. Peterson's Algorithm.md"
   ]
 }
