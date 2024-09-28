@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "08359ea7845b539a",
+            "id": "f413c65f5c06cd69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Necessary Concepts/Main Memory.md",
+                "file": "Necessary Concepts/Dirty Bit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c54bb95cf7d66e7f",
+            "id": "ad287aafb0353c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Process/02. Process Management.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebfe34de44e3dbc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Memory Management/3. Virtual Memory.md",
+                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09. Memory Management/3. Virtual Memory.md",
+                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09. Memory Management/3. Virtual Memory.md",
+                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09. Memory Management/3. Virtual Memory.md"
+                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md"
               }
             }
           }
@@ -173,8 +161,18 @@
   },
   "active": "b067505939719c80",
   "lastOpenFiles": [
-    "02. Process/02. Process Management.md",
+    "Images/mru-page-replacement.png",
+    "Images/lru-page-replacement.png",
+    "Images/lru-page-replacement.png.crdownload",
+    "Images/optimal-page-replacement.png",
+    "Images/fifo-page-replacement.png",
+    "Images/fifo-page-replacement.png.crdownload",
+    "Necessary Concepts/Dirty Pages.md",
+    "Necessary Concepts/Dirty Bit.md",
+    "09. Memory Management/3.1 Page Replacement Algorithms.md",
     "09. Memory Management/3. Virtual Memory.md",
+    "02. Process/02. Process Management.md",
+    "Necessary Concepts/Main Memory.md",
     "02. Process/01. Introduction.md",
     "01. Basics of OS/03. Types of Operating System.md",
     "01. Basics of OS/01. Introduction.md",
@@ -185,7 +183,6 @@
     "Images/os-segmentation.png",
     "Images/os-segmentation-segments.png",
     "Images/os-segmentation-segments.png.crdownload",
-    "Necessary Concepts/Main Memory.md",
     "09. Memory Management/1. Introduction to Memory Management.md",
     "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
     "Images/Translation_Lookaside_Buffer.png",
@@ -197,14 +194,9 @@
     "Contiguous Memory Management Technique.md",
     "Images/os-linked-list-for-dynamic-partitioning.png",
     "Images/os-linked-list-for-dynamic-partitioning.png.crdownload",
-    "Images/os-bit-map-for-dynamic-partitioning.png",
     "Images/os-bit-map-for-dynamic-partitioning.png.crdownload",
-    "Images/os-compaction.png",
     "Images/os-compaction.png.crdownload",
-    "Images/os-dynamic-partitioning-external-fragmentation.png",
     "Images/os-dynamic-partitioning-external-fragmentation.png.crdownload",
-    "Images/os-dynamic-partitioning.png.crdownload",
-    "Images/os-fixed-partitioning.png.crdownload",
     "Important Topics/Storage of data in a computer system.md",
     "commit.md",
     "08. Deadlocks/02. Deadlock Handling.md",
@@ -214,10 +206,6 @@
     "Necessary Concepts/Wait-for Graph (WFG).md",
     "Necessary Concepts/Deadlock Avoidance Example.md",
     "07. Critical Section/06. Producer Consumer Problem.md",
-    "07. Critical Section/07. Readers-Writers Problem.md",
-    "Necessary Concepts/Explanation of How prevention of Circular Wait can prevent Deadlock.md",
-    "07. Critical Section/08. Dining Philosopher Problem.md",
-    "07. Critical Section/05. Semaphores.md",
-    "07. Critical Section/04. Peterson's Algorithm.md"
+    "07. Critical Section/07. Readers-Writers Problem.md"
   ]
 }
