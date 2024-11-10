@@ -13,26 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Necessary Concepts/Dirty Bit.md",
+                "file": "10. Storage Management/01. Hard Disk Architecture.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "01. Hard Disk Architecture"
             }
           },
           {
-            "id": "ad287aafb0353c24",
+            "id": "c90347ded6e55598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Important Topics/OS-Stanford.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OS-Stanford"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +70,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +80,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
+                "file": "10. Storage Management/01. Hard Disk Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01. Hard Disk Architecture"
             }
           },
           {
@@ -115,10 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md",
+                "file": "10. Storage Management/01. Hard Disk Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01. Hard Disk Architecture"
             }
           },
           {
@@ -129,7 +140,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09. Memory Management/3.1 Page Replacement Algorithms.md"
-              }
+                "file": "10. Storage Management/01. Hard Disk Architecture.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01. Hard Disk Architecture"
             }
           }
         ]
@@ -151,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -159,8 +175,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b067505939719c80",
+  "active": "f413c65f5c06cd69",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "02. Disk Access Time.md",
+    "10. Storage Management/01. Hard Disk Architecture.md",
+    "Images/Tracks.png",
+    "Images/Spindle.png",
+    "Images/Sector.png",
+    "Images/Platter.png",
+    "Necessary Concepts/Dirty Bit.md",
+    "09. Memory Management/3.1 Page Replacement Algorithms.md",
+    "Important Topics/OS-Stanford.pdf",
+    "Images/Platers_real.jpg",
+    "Images/Platers_real.jpg.crdownload",
+    "Images/Hard_Disk.jpg",
+    "Images/Hard_Disk.jpg.crdownload",
+    "09. Memory Management/4. Thrashing.md",
+    "10. Storage Management",
     "Images/mru-page-replacement.png",
     "Images/lru-page-replacement.png",
     "Images/lru-page-replacement.png.crdownload",
@@ -168,8 +200,6 @@
     "Images/fifo-page-replacement.png",
     "Images/fifo-page-replacement.png.crdownload",
     "Necessary Concepts/Dirty Pages.md",
-    "Necessary Concepts/Dirty Bit.md",
-    "09. Memory Management/3.1 Page Replacement Algorithms.md",
     "09. Memory Management/3. Virtual Memory.md",
     "02. Process/02. Process Management.md",
     "Necessary Concepts/Main Memory.md",
@@ -178,34 +208,20 @@
     "01. Basics of OS/01. Introduction.md",
     "01. Basics of OS/02. Functions of Operating System.md",
     "09. Memory Management/2.2. Non-contiguous memory management schemes.md",
-    "Images/segmentation3.webp",
     "Images/segmentation3.webp.crdownload",
-    "Images/os-segmentation.png",
-    "Images/os-segmentation-segments.png",
     "Images/os-segmentation-segments.png.crdownload",
     "09. Memory Management/1. Introduction to Memory Management.md",
     "09. Memory Management/2.1. Contiguous Memory Management Technique.md",
-    "Images/Translation_Lookaside_Buffer.png",
-    "Images/os-need-for-paging.png",
     "Images/os-need-for-paging.png.crdownload",
     "09. Memory Management/2. Memory Management Techniques.md",
-    "Images/memory-management-techniques.png",
     "Images/memory-management-techniques.png.crdownload",
     "Contiguous Memory Management Technique.md",
-    "Images/os-linked-list-for-dynamic-partitioning.png",
-    "Images/os-linked-list-for-dynamic-partitioning.png.crdownload",
-    "Images/os-bit-map-for-dynamic-partitioning.png.crdownload",
-    "Images/os-compaction.png.crdownload",
-    "Images/os-dynamic-partitioning-external-fragmentation.png.crdownload",
     "Important Topics/Storage of data in a computer system.md",
     "commit.md",
     "08. Deadlocks/02. Deadlock Handling.md",
     "07. Critical Section/09. Deadlocks.md",
     "Necessary Concepts/Working of Deadlock Avoidance.md",
     "08. Deadlocks/01. Introduction.md",
-    "Necessary Concepts/Wait-for Graph (WFG).md",
-    "Necessary Concepts/Deadlock Avoidance Example.md",
-    "07. Critical Section/06. Producer Consumer Problem.md",
-    "07. Critical Section/07. Readers-Writers Problem.md"
+    "Necessary Concepts/Wait-for Graph (WFG).md"
   ]
 }
