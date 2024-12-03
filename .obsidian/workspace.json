@@ -8,32 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f413c65f5c06cd69",
+            "id": "a11b23710b04654c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Storage Management/01. Hard Disk Architecture.md",
+                "file": "10. Storage Management/3.3 SCAN Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Hard Disk Architecture"
+              "title": "3.3 SCAN Algorithm"
             }
           },
           {
-            "id": "c90347ded6e55598",
+            "id": "a680e3a310d5da5c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Important Topics/OS-Stanford.pdf"
+                "file": "10. Storage Management/3.4 LOOK Algorithm.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "OS-Stanford"
+              "icon": "lucide-file",
+              "title": "3.4 LOOK Algorithm"
+            }
+          },
+          {
+            "id": "13034337b9ff3b19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Storage Management/3.5 C-SCAN Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5 C-SCAN Algorithm"
+            }
+          },
+          {
+            "id": "2230992ec57c0651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.6 C-LOOK Algorithm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.6 C-LOOK Algorithm"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,18 +206,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f413c65f5c06cd69",
+  "active": "2230992ec57c0651",
   "lastOpenFiles": [
+    "10. Storage Management/3.5 C-SCAN Algorithm.md",
+    "3.6 C-LOOK Algorithm.md",
+    "10. Storage Management/3.4 LOOK Algorithm.md",
+    "10. Storage Management/3.3 SCAN Algorithm.md",
+    "10. Storage Management/3.2 SSTF Algorithm.md",
+    "10. Storage Management/3.1 FCFS Algorithm.md",
+    "10. Storage Management/3. Disk Scheduling Algorithm.md",
+    "10. Storage Management/2. Disk Access Time.md",
+    "09. Memory Management/3. Virtual Memory.md",
+    "10. Storage Management/1. Hard Disk Architecture.md",
+    "Important Topics/OS-Stanford.pdf",
     "Untitled.canvas",
-    "02. Disk Access Time.md",
-    "10. Storage Management/01. Hard Disk Architecture.md",
     "Images/Tracks.png",
     "Images/Spindle.png",
     "Images/Sector.png",
     "Images/Platter.png",
     "Necessary Concepts/Dirty Bit.md",
     "09. Memory Management/3.1 Page Replacement Algorithms.md",
-    "Important Topics/OS-Stanford.pdf",
     "Images/Platers_real.jpg",
     "Images/Platers_real.jpg.crdownload",
     "Images/Hard_Disk.jpg",
@@ -200,7 +239,6 @@
     "Images/fifo-page-replacement.png",
     "Images/fifo-page-replacement.png.crdownload",
     "Necessary Concepts/Dirty Pages.md",
-    "09. Memory Management/3. Virtual Memory.md",
     "02. Process/02. Process Management.md",
     "Necessary Concepts/Main Memory.md",
     "02. Process/01. Introduction.md",
@@ -216,12 +254,6 @@
     "09. Memory Management/2. Memory Management Techniques.md",
     "Images/memory-management-techniques.png.crdownload",
     "Contiguous Memory Management Technique.md",
-    "Important Topics/Storage of data in a computer system.md",
-    "commit.md",
-    "08. Deadlocks/02. Deadlock Handling.md",
-    "07. Critical Section/09. Deadlocks.md",
-    "Necessary Concepts/Working of Deadlock Avoidance.md",
-    "08. Deadlocks/01. Introduction.md",
-    "Necessary Concepts/Wait-for Graph (WFG).md"
+    "Important Topics/Storage of data in a computer system.md"
   ]
 }
